@@ -1,0 +1,709 @@
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size1
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 1
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+WARN nioEventLoopGroup-8-2 heartbeat - HB outgoing channel closing for node '0' at tarun-Inspiron-N5010.local
+ERROR nioEventLoopGroup-8-2 management - management channel inactive
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 1
+DEBUG Thread-0 heartbeat - beat (2) sent to 1 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+INFO main server - Initializing server 2
+INFO main heartbeat - Expects to connect to node 0 (192.168.1.33, 5670)
+DEBUG main io.netty.util.internal.logging.InternalLoggerFactory - Using SLF4J as the default logging framework
+DEBUG main io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+DEBUG main io.netty.util.internal.PlatformDependent - UID: 1000
+DEBUG main io.netty.util.internal.PlatformDependent - Java version: 7
+DEBUG main io.netty.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+DEBUG main io.netty.util.internal.PlatformDependent0 - java.nio.ByteBuffer.cleaner: available
+DEBUG main io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+DEBUG main io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+DEBUG main io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+DEBUG main io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: true
+DEBUG main io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+DEBUG main io.netty.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+DEBUG main io.netty.util.internal.PlatformDependent - Javassist: unavailable
+DEBUG main io.netty.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+DEBUG main io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+DEBUG main io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+DEBUG main io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1ecf98f
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@f44447
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@aeb9d0
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1290a1d
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@157133c
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1afe37f
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@80dc07
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1ed76ce
+INFO main mgmt - Creating heartbeat monitor for 192.168.1.33(5670)
+INFO main heartbeat - Expects to connect to node 1 (192.168.1.32, 5671)
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@e28bf
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1955233
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@47aec7
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@23a187
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@141b16b
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1e7280b
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@f61d6a
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@549d4
+INFO main mgmt - Creating heartbeat monitor for 192.168.1.32(5671)
+INFO main heartbeat - Expects to connect to node 3 (192.168.1.31, 5673)
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1320ebf
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1662250
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@56cd93
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@d290f2
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@2a0fad
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@16b302c
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@279c82
+TRACE main io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@942210
+INFO main mgmt - Creating heartbeat monitor for 192.168.1.31(5673)
+INFO Thread-0 heartbeat - starting HB manager
+INFO main server - Server 2, managers initialized
+INFO Thread-1 heartbeat - HB connection monitor starting, node has 3 connections
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@173d391
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@146e7cc
+INFO main server - Server 2 ready
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1c2ed7
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1c32b0f
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@401b01
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@acfe94
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@13bf7d0
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@17dd928
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@a92f7
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@bb4e18
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1040c15
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@b549af
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@1f89717
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@36a9a4
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@18780a2
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@10e2829
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@6eacb3
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@6eacb3
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@44a3c0
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@5aae15
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@15b0ff7
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@17527fa
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@93b9ea
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@92f292
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@17359cb
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@c3ceb
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@173718e
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@24539d
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@ed9ac1
+TRACE Thread-6 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@14b152d
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@c3081
+TRACE Thread-5 io.netty.channel.nio.NioEventLoop - Instrumented an optimized java.util.Set into: sun.nio.ch.EPollSelectorImpl@d19d73
+INFO Thread-5 server - Starting mgmt 2, listening on port = 5672
+INFO Thread-6 server - Starting server 2, listening on port = 5572
+DEBUG Thread-5 io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x6a560958f699bd46
+DEBUG Thread-6 io.netty.util.NetUtil - Loopback interface: lo
+DEBUG Thread-6 io.netty.util.NetUtil - Loopback address: /0:0:0:0:0:0:0:1%1 (primary)
+DEBUG Thread-6 io.netty.util.NetUtil - Loopback address: /127.0.0.1
+DEBUG Thread-6 io.netty.util.NetUtil - /proc/sys/net/core/somaxconn: 128
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-7-1 io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetectionLevel: simple
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasGraph
+INFO inbound-mgmt-1 network - Network: node '3' sent a NODEJOIN
+INFO inbound-mgmt-1 network - NODEJOIN: tarun-Inspiron-N5010.local, 5672
+INFO inbound-mgmt-1 management - ConnectionManager adding connection to 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasGraph
+INFO inbound-mgmt-1 network - Network: node '0' sent a NODEJOIN
+INFO inbound-mgmt-1 network - NODEJOIN: tarun-Inspiron-N5010.local, 5672
+INFO inbound-mgmt-1 management - ConnectionManager adding connection to 0
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.31:5673
+INFO Thread-1 mgmt - HeartMonitor sending join message to 3
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:null
+INFO inbound-mgmt-1 election - Node 2 is searching for the leader
+WARN inbound-mgmt-1 election - Node 2 setting max hops to arbitrary value (3)
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - In Has electionFM.3.3  Node 3 detects no leader. Election!
+DEBUG inbound-mgmt-1 management - DECLAREELECTION
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has electionFM.3.4  Node 3 detects no leader. Election!
+DEBUG inbound-mgmt-1 management - DECLAREELECTION
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:null
+INFO inbound-mgmt-1 election - Node 2 is searching for the leader
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 0
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - In Has electionFM.0.3  Node 0 detects no leader. Election!
+DEBUG inbound-mgmt-1 management - NOMINATE
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 election - ***************This is the bomb********************
+DEBUG inbound-mgmt-1 election - ***************This is the bomb but no leader********************
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has electionFM.3.3  Node 3 detects no leader. Election!
+DEBUG inbound-mgmt-1 management - DECLAREWINNER
+DEBUG inbound-mgmt-1 election - ***************This is the bomb********************
+DEBUG inbound-mgmt-1 election - ***************This is the bomb but no leader********************
+INFO inbound-mgmt-1 floodmax - Election FM.3.3: Node 3 is declared the leader
+INFO inbound-mgmt-1 election - ----> the leader is 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has electionFM.3.5  Node 3 is the leader
+DEBUG inbound-mgmt-1 management - THELEADERIS
+INFO inbound-mgmt-1 election - Node 2 got an answer on who the leader is. Its Node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG inbound-1 server - inbound queue size***************: 0
+DEBUG inbound-1 database - Inserted: 546193f5e4b04e41ef473b59
+DEBUG inbound-1 server - inbound queue size***************: 0
+DEBUG inbound-1 database - Inserted: 546193f5e4b04e41ef473b5a
+DEBUG inbound-1 server - inbound queue size***************: 0
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-0 heartbeat - sending heartbeat to 0
+DEBUG Thread-0 heartbeat - beat (2) sent to 0 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+WARN nioEventLoopGroup-7-2 heartbeat - HB outgoing channel closing for node '0' at tarun-Inspiron-N5010.local
+ERROR nioEventLoopGroup-7-2 management - management channel inactive
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.33:5670
+DEBUG Thread-0 heartbeat - **********setting Queue Size**********: 0
+DEBUG Thread-0 heartbeat - sending heartbeat to 3
+DEBUG Thread-0 heartbeat - beat (2) sent to 3 at tarun-Inspiron-N5010.local
+DEBUG Thread-1 mgmt - failed to initialize the heartbeat connection
+DEBUG Thread-1 heartbeat - attempting to connect to node: 192.168.1.32:5671
+DEBUG nioEventLoopGroup-4-1 management - HB from node 3
+DEBUG inbound-mgmt-1 management - Inbound management message received
+DEBUG inbound-mgmt-1 management - In Has hasJobBid
+DEBUG inbound-mgmt-1 management - Queue size0
+DEBUG inbound-mgmt-1 management - 3
+DEBUG inbound-mgmt-1 AntConstants - Setting queue of location 3 with 0
+DEBUG inbound-mgmt-1 heartbeat - HeartbeatManager.processRequest() HB received from 3
+DEBUG inbound-mgmt-1 election - The leader that has been elected is:3
