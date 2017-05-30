@@ -1,3 +1,5 @@
+InboundManagementWorker is the class at the crossroads of incoming request and Delgation
+
 The management package provides server-behavior for responding 
 to requests relating to the health-and-status, and network 
 management queries.
