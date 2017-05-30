@@ -11,3 +11,8 @@ Client (HeartMonitor) ----> Server (ManagementHandler)
 2) server-server
 
 Server (ManagementHandler + HeartMonitor) ----> Server (ManagementHandler)
+
+InboundManagementQueue are for incoming messages and OutboundManagementQueue for outgoing messages:  
+
+The way it works in netty is    incoming message(protobuff message) -> store in queue(inbound queue) -> invoke handlers (FIFO) 
+-> accept/discard message
